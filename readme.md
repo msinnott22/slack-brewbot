@@ -19,8 +19,8 @@ BrewBot integrates quickly and easily with Slack, deciding randomly who'll be ma
 * Create a new Outgoing WebHook integration.
 * Choose which channel you want to enable BrewBot in.
 * Decide upon a trigger word or words, something such as '!brewbot' or 'brewbot decide'.
-* Add the URL the node process is running on.
-* Add the Outgoing WebHook integration, head to the channel(s) you enabled BrewBot in and give it a spin.
+* Add the Apps heroku URL + '\decide' to the WebHook
+* Head to the channel(s) you enabled BrewBot in and give it a spin! 
 
 ### License
 
